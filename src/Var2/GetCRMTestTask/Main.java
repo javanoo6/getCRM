@@ -6,7 +6,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //эти Place у нас константы, в ходе программы мы их менять не будем
         final Place place1 = (new Place("Исаакиевский собор", 5, 10));
         final Place place2 = (new Place("Эрмитаж", 8, 11));
         final Place place3 = (new Place("Кунсткамера", 3.5, 4));
